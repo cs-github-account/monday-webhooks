@@ -1,4 +1,4 @@
-This video LINKHERE is an explanation of how monday.com Webhooks work.
+You will find in this video LINKHERE an explanation of how monday.com Webhooks work.
 
 monday.com Webhooks let your app be notified when certain events occur in monday so that your app can react to those events.
 
